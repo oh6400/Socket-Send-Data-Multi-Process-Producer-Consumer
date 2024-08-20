@@ -26,10 +26,11 @@ Client command:
 
 `$ ./client [Timestamp]`
 
-![image](https://github.com/oh6400/Socket-Send-Data-Multi-Process-Producer-Consumer/blob/main/img/client.png)
+![image](https://github.com/oh6400/Socket-Send-Data-Multi-Process-Producer-Consumer/blob/master/img/client.png)
+
 
 Server command:
 
 `$ ./server [Number of Processes]`
 
-![image](https://github.com/oh6400/Socket-Send-Data-Multi-Process-Producer-Consumer/blob/main/img/server.png)
+![image](https://github.com/oh6400/Socket-Send-Data-Multi-Process-Producer-Consumer/blob/master/img/server.png)
